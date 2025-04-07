@@ -1,1 +1,1 @@
-# buy-livpure.github.io
+# https://get-livpure.vercel.app
