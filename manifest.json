@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"LivPure™ Official Website - Pay Just $39/bottle",
+  "short_name":"LivPure™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Liv Pure is a nutritional supplement based on a weight loss remedy from an island in the Mediterranean.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
